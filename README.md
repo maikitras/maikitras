@@ -4,14 +4,19 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/abyss.png"
+  <img src="./assets/abbys.png"
        width="100%"
-       alt="Abyss Laboratory - Maikitras"/>
+       alt="Maikitras"/>
 </p>
 
 <h1 align="center">
-  <samp>MAIKITRAS</samp>
+  <samp>Just Myke</samp>
 </h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,cs&theme=dark"
+       alt="Technologies and tools"/>
+</p>
 
 <p align="center">
   <samp>
@@ -26,7 +31,7 @@
 </p>
 
 <p align="center">
-  <samp>explore. question. understand. rebuild.</samp>
+  <samp> Find.  Understand. Curiosity. Knowledge.</samp>
 </p>
 
 <p align="center">
@@ -39,7 +44,7 @@
 ## `// 01. ABOUT ME`
 
 ```text
-Name       : Maikitras
+Name       : Call me Myke 
 Field      : Physics / Scientific Computing
 Environment: Linux / Windows
 Interests  : Physics, Programming, Cybersecurity
@@ -83,7 +88,7 @@ Currently exploring:
 - Ethical Hacking
 - Network Security
 - Linux Systems
-- System Architecture
+
 
 </td>
 </tr>
@@ -93,9 +98,7 @@ Currently exploring:
 ### ⌘ DEVELOPMENT
 
 - C# / Python
-- Algorithms
-- Data Structures
-- Software Development
+
 
 </td>
 <td width="50%" valign="top">
@@ -103,32 +106,18 @@ Currently exploring:
 ### ⌬ RESEARCH
 
 - Scientific Computing
-- Computational Materials
-- Artificial Intelligence
 - Numerical Simulations
 
 </td>
 </tr>
 </table>
 
----
 
-## `// 03. SYSTEM ENVIRONMENT`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,cs,git,github,vscode,docker&theme=dark"
-       alt="Technologies and tools"/>
-</p>
-
-<p align="center">
-  <sub>
-    CURRENTLY LEARNING · EXPERIMENTING · BUILDING
-  </sub>
-</p>
 
 ---
 
-## `// 04. PROJECTS & RESEARCH`
+## `// 03. PROJECTS & RESEARCH`
 
 Here are some areas where I am developing projects and expanding
 my technical knowledge.
@@ -145,26 +134,8 @@ linux-experiments/
 
 ---
 
-## `// 05. GITHUB STATISTICS`
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=maikitras&show_icons=true&hide_border=true&bg_color=05070B&title_color=7892B5&icon_color=7892B5&text_color=A5ADB8&rank_icon=github"
-       alt="GitHub statistics"/>
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikitras&layout=compact&hide_border=true&bg_color=05070B&title_color=7892B5&text_color=A5ADB8"
-       alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img width="70%"
-       src="https://streak-stats.demolab.com?user=maikitras&hide_border=true&background=05070B&ring=7892B5&fire=7892B5&currStreakLabel=A5ADB8&sideLabels=A5ADB8&dates=56616D&currStreakNum=A5ADB8&sideNums=A5ADB8"
-       alt="GitHub contribution streak"/>
-</p>
-
----
-
-## `// 06. TERMINAL`
+## `// 04. TERMINAL`
 
 <p align="center">
   <samp>
@@ -178,6 +149,4 @@ linux-experiments/
   </samp>
 </p>
 
-<p align="center">
-  <sub>MAIKITRAS © 2026 · ABYSS LABORATORY</sub>
-</p>
+
