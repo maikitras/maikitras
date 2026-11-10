@@ -9,9 +9,16 @@
        alt="Maikitras"/>
 </p>
 
-<h1 align="center">
-  <samp>Just Myke</samp>
-</h1>
+<p align="center">
+<pre>
+ ███╗   ███╗██╗   ██╗██╗  ██╗███████╗
+ ████╗ ████║╚██╗ ██╔╝██║ ██╔╝██╔════╝
+ ██╔████╔██║ ╚████╔╝ █████╔╝ █████╗
+ ██║╚██╔╝██║  ╚██╔╝  ██╔═██╗ ██╔══╝
+ ██║ ╚═╝ ██║   ██║   ██║  ██╗███████╗
+ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+</pre>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,cs&theme=dark"
